@@ -5,6 +5,8 @@ public class TestDriver {
 		StreamTest st = new StreamTest();
 		//st.evenoddtest();
 		//st.stringtest();
-		st.sumofdigit();
+		//st.sumofdigit();
+		//st.reversestring();
+		st.emptest();
 	}
 }
